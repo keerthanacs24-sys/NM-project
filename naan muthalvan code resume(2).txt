@@ -98,7 +98,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="https://github.com/lokesh-cs23/lokesh2004/raw/refs/heads/main/Image%202025-04-05%20at%2018.31.25_3f78e73877.JPG" alt="Your Profile Picture" class="profile-picture">
-            <h1>keerthana M</h1>
+            <h1>keerthana s</h1>
             <p>Am Computer Science Student</p>
         </div>
     </header>
@@ -193,4 +193,5 @@
         });
     </script>
 </body>
+
 </html>
